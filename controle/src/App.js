@@ -8,6 +8,7 @@ const App = () => {
         <>
         <Header />
         <Resume />
+        <form />
         <GlobalStyle />
         </>
     );
